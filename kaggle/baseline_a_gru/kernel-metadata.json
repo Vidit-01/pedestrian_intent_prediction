@@ -1,0 +1,15 @@
+{
+ "id": "<YOUR_KAGGLE_USERNAME>/jaad-baseline-a-gru",
+ "title": "JAAD Baseline A GRU",
+ "code_file": "baseline_a_gru.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [
+  "christopheronyiuke/jaad-video"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

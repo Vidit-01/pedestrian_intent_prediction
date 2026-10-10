@@ -53,6 +53,31 @@ def aggregate(run_dirs, split='test'):
     return out
 
 
+def results_table(run_dirs, split='test'):
+    """One row per config: run dirs named <config>_s<seed> are grouped, metrics shown as mean ± std over seeds."""
+    import re
+    from collections import defaultdict
+
+    import pandas as pd
+    groups = defaultdict(list)
+    for d in sorted(run_dirs):
+        if os.path.exists(os.path.join(d, 'metrics.json')):
+            name = os.path.basename(os.path.normpath(d))
+            if name in ('majority', 'logreg_last_frame'):  # simple_baselines.py layout: <out>/<name>
+                name = os.path.basename(os.path.dirname(os.path.normpath(d))) + '/' + name
+            groups[re.sub(r'_s\d+$', '', name)].append(d)
+    rows = []
+    for name, ds in groups.items():
+        with open(os.path.join(ds[0], 'metrics.json')) as f:
+            first = json.load(f)
+        row = {'run': name, 'seeds': len(ds)}
+        row.update({k: f'{m:.3f} ± {s:.3f}' for k, (m, s) in aggregate(ds, split).items()})
+        row['params'] = first.get('n_params', '')
+        row['latency_ms'] = round(first['latency_ms_bs1'], 2) if 'latency_ms_bs1' in first else ''
+        rows.append(row)
+    return pd.DataFrame(rows)
+
+
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('runs', nargs='+')

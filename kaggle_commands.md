@@ -1,5 +1,7 @@
 # Kaggle notebook — cell by cell
 
+Ready-made notebooks with these steps: `kaggle/baseline_a_gru/baseline_a_gru.ipynb`, `kaggle/baseline_b_acit/baseline_b_acit.ipynb`.
+
 **Notebook settings:** Accelerator **GPU T4 x2** · Internet **On** · Add Input → dataset **`christopheronyiuke/jaad-video`**
 (346 official JAAD mp4s, mounted at `/kaggle/input/jaad-video/JAAD_clips`).
 

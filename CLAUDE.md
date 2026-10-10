@@ -2,6 +2,7 @@
 
 Pedestrian crossing-intention baselines on JAAD (Baseline A: GRU, Baseline B: ACIT), run on Kaggle 2x T4.
 Spec: `Vidit.md` (a Python wrapper around the markdown spec). Kaggle run sheet: `kaggle_commands.md`.
+Kaggle notebooks: `kaggle/baseline_a_gru/`, `kaggle/baseline_b_acit/` (each has kernel-metadata.json; push with `kaggle kernels push -p <dir>`).
 
 ## Pipeline (each step is a standalone CLI)
 - `python download_jaad.py --root JAAD [--clips_from DIR | --clips]` — clones official JAAD repo (annotations, split_ids, jaad_data.py)

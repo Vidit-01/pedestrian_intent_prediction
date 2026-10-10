@@ -1,0 +1,15 @@
+{
+ "id": "<YOUR_KAGGLE_USERNAME>/jaad-baseline-b-acit",
+ "title": "JAAD Baseline B ACIT",
+ "code_file": "baseline_b_acit.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [
+  "christopheronyiuke/jaad-video"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}
