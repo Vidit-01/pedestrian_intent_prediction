@@ -1,0 +1,38 @@
+{
+ "trial": 115,
+ "rescore": 0.8245818336280083,
+ "cfg": {
+  "arch": "net",
+  "pose_repr": "rel",
+  "kp_vel": true,
+  "side": "none",
+  "use_image": false,
+  "fusion": "concat",
+  "widths": [
+   64,
+   64
+  ],
+  "kernel": 5,
+  "dropout": 0.3476583491325824,
+  "adj_init": "identity",
+  "head_hidden": 32,
+  "epochs": 20,
+  "bs": 128,
+  "lr": 0.0011182940528221452,
+  "wd": 0.030656758105803955,
+  "sched": "onecycle",
+  "label_smooth": 0.03296964297078433,
+  "ema": 0.95,
+  "clip": 5.0,
+  "amp": false,
+  "class_weight": true,
+  "jitter": 0.0050744004484975,
+  "gscale": 0.04635859640242617,
+  "hflip": 0.3451076236622142,
+  "joint_drop": 0.014457935053900483,
+  "time_crop": 0.5,
+  "img_aug": 1.0,
+  "img_down": 2,
+  "tta": true
+ }
+}

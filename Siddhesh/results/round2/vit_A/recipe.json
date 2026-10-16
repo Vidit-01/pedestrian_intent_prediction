@@ -1,0 +1,43 @@
+{
+ "recipe": "r3_frozen6",
+ "args": [
+  "--epochs",
+  10,
+  "--lr",
+  5e-05,
+  "--llrd",
+  0.9,
+  "--freeze_blocks",
+  6
+ ],
+ "sweep": [
+  {
+   "recipe": "r3_frozen6",
+   "oof_auc": 0.6359956095041323,
+   "fold_auc_mean": 0.6226992946365554,
+   "fold_auc_std": 0.08169915484897453,
+   "test_auc (diagnostic only)": 0.6614937340696686
+  },
+  {
+   "recipe": "r4_strong_reg",
+   "oof_auc": 0.6184782353493614,
+   "fold_auc_mean": 0.5936676195600599,
+   "fold_auc_std": 0.10883181555983444,
+   "test_auc (diagnostic only)": 0.669171671043485
+  },
+  {
+   "recipe": "r1_lr2e-5",
+   "oof_auc": 0.6059265824567994,
+   "fold_auc_mean": 0.5748592946259097,
+   "fold_auc_std": 0.08940837812740736,
+   "test_auc (diagnostic only)": 0.6739730970495096
+  },
+  {
+   "recipe": "r2_lr1e-5_long",
+   "oof_auc": 0.5829428061607813,
+   "fold_auc_mean": 0.5590682185383434,
+   "fold_auc_std": 0.06683926042843866,
+   "test_auc (diagnostic only)": 0.6795239727349964
+  }
+ ]
+}

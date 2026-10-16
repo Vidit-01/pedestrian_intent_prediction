@@ -1,0 +1,10 @@
+__pycache__/
+logs/
+data/
+kaggle/pg_data/
+*.pt
+*.pkl
+*.npy
+*.journal
+*.journal.lock
+*.tmp.npz

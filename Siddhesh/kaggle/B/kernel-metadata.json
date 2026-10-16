@@ -1,0 +1,13 @@
+{
+ "id": "siddheshnadkarni/jaad-routed-vit-b",
+ "title": "JAAD Routed ViT B",
+ "code_file": "jaad_routed_vit_B.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": ["christopheronyiuke/jaad-video"],
+ "competition_sources": [],
+ "kernel_sources": ["siddheshnadkarni/jaad-dense-vit-a"]
+}

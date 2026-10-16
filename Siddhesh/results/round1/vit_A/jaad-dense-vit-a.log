@@ -1,0 +1,504 @@
+[{"stream_name":"stderr","time":8.032538636,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.032586383,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.032590634,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.032593135,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.680831107,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.680856706,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.680859779,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.680862372,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":13.193208228,"data":"\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/2.7 MB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91m━━━━\u001b[0m\u001b[91m╸\u001b[0m\u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.3/2.7 MB\u001b[0m \u001b[31m9.3 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[91m╸\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m39.9 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m2.7/2.7 MB\u001b[0m \u001b[31m5.3 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":18.253149469,"data":"\u001b[?25hGPU 0: Tesla T4 (UUID: GPU-3632d778-ecd2-23b4-40c7-495b86145088)\r\n"}
+,{"stream_name":"stdout","time":18.253186357,"data":"GPU 1: Tesla T4 (UUID: GPU-9fc1359d-e76b-4401-777f-3b33ed39203a)\r\n"}
+,{"stream_name":"stdout","time":18.253191382,"data":"Filesystem      Size  Used Avail Use% Mounted on\r\n"}
+,{"stream_name":"stdout","time":18.253195326,"data":"/dev/loop2       20G  3.1M   20G   1% /kaggle/working\r\n"}
+,{"stream_name":"stdout","time":18.253199194,"data":"overlay         8.0T  7.0T  1.1T  87% /\r\n"}
+,{"stream_name":"stdout","time":18.370032572,"data":"Writing /kaggle/working/code/routed_vit/__init__.py\n"}
+,{"stream_name":"stdout","time":18.389069612,"data":"Writing /kaggle/working/code/routed_vit/model.py\n"}
+,{"stream_name":"stdout","time":18.403756804,"data":"Writing /kaggle/working/code/routed_vit/metrics.py\n"}
+,{"stream_name":"stdout","time":18.421550155,"data":"Writing /kaggle/working/code/routed_vit/data.py\n"}
+,{"stream_name":"stdout","time":18.439275501,"data":"Writing /kaggle/working/code/routed_vit/train.py\n"}
+,{"stream_name":"stdout","time":18.453715315,"data":"Writing /kaggle/working/code/routed_vit/launcher.py\n"}
+,{"stream_name":"stdout","time":18.472922021,"data":"Writing /kaggle/working/code/routed_vit/analysis.py\n"}
+,{"stream_name":"stdout","time":18.489443509,"data":"Writing /kaggle/working/code/routed_vit/reports.py\n"}
+,{"stream_name":"stdout","time":27.862943586,"data":"GPUs: 2 | samples: /kaggle/working/out/jaad_beh.pkl\n"}
+,{"stream_name":"stdout","time":27.954801799,"data":"clips source: downloading official zip (3.1 GB)\n"}
+,{"stream_name":"stdout","time":28.05664524,"data":"Cloning into '/kaggle/working/JAAD'...\r\n"}
+,{"stream_name":"stdout","time":28.463127804,"data":"remote: Enumerating objects: 1539, done.\u001b[K\r\n"}
+,{"stream_name":"stdout","time":28.463183834,"data":"remote: Counting objects:   0% (1/1539)\u001b[K\rremote: Counting objects:   1% (16/1539)\u001b[K\rremote: Counting objects:   2% (31/1539)\u001b[K\rremote: Counting objects:   3% (47/1539)\u001b[K\rremote: Counting objects:   4% (62/1539)\u001b[K\rremote: Counting objects:   5% (77/1539)\u001b[K\rremote: Counting objects:   6% (93/1539)\u001b[K\rremote: Counting objects:   7% (108/1539)\u001b[K\rremote: Counting objects:   8% (124/1539)\u001b[K\rremote: Counting objects:   9% (139/1539)\u001b[K\rremote: Counting objects:  10% (154/1539)\u001b[K\rremote: Counting objects:  11% (170/1539)\u001b[K\rremote: Counting objects:  12% (185/1539)\u001b[K\rremote: Counting objects:  13% (201/1539)\u001b[K\rremote: Counting objects:  14% (216/1539)\u001b[K\rremote: Counting objects:  15% (231/1539)\u001b[K\rremote: Counting objects:  16% (247/1539)\u001b[K\rremote: Counting objects:  17% (262/1539)\u001b[K\rremote: Counting objects:  18% (278/1539)\u001b[K\rremote: Counting objects:  19% (293/1539)\u001b[K\rremote: Counting objects:  20% (308/1539)\u001b[K\rremote: Counting objects:  21% (324/1539)\u001b[K\rremote: Counting objects:  22% (339/1539)\u001b[K\rremote: Counting objects:  23% (354/1539)\u001b[K\rremote: Counting objects:  24% (370/1539)\u001b[K\rremote: Counting objects:  25% (385/1539)\u001b[K\rremote: Counting objects:  26% (401/1539)\u001b[K\rremote: Counting objects:  27% (416/1539)\u001b[K\rremote: Counting objects:  28% (431/1539)\u001b[K\rremote: Counting objects:  29% (447/1539)\u001b[K\rremote: Counting objects:  30% (462/1539)\u001b[K\rremote: Counting objects:  31% (478/1539)\u001b[K\rremote: Counting objects:  32% (493/1539)\u001b[K\rremote: Counting objects:  33% (508/1539)\u001b[K\rremote: Counting objects:  34% (524/1539)\u001b[K\rremote: Counting objects:  35% (539/1539)\u001b[K\rremote: Counting objects:  36% (555/1539)\u001b[K\rremote: Counting objects:  37% (570/1539)\u001b[K\rremote: Counting objects:  38% (585/1539)\u001b[K\rremote: Counting objects:  39% (601/1539)\u001b[K\rremote: Counting objects:  40% (616/1539)\u001b[K\rremote: Counting objects:  41% (631/1539)\u001b[K\rremote: Counting objects:  42% (647/1539)\u001b[K\rremote: Counting objects:  43% (662/1539)\u001b[K\rremote: Counting objects:  44% (678/1539)\u001b[K\rremote: Counting objects:  45% (693/1539)\u001b[K\rremote: Counting objects:  46% (708/1539)\u001b[K\rremote: Counting objects:  47% (724/1539)\u001b[K\rremote: Counting objects:  48% (739/1539)\u001b[K\rremote: Counting objects:  49% (755/1539)\u001b[K\rremote: Counting objects:  50% (770/1539)\u001b[K\rremote: Counting objects:  51% (785/1539)\u001b[K\rremote: Counting objects:  52% (801/1539)\u001b[K\rremote: Counting objects:  53% (816/1539)\u001b[K\rremote: Counting objects:  54% (832/1539)\u001b[K\rremote: Counting objects:  55% (847/1539)\u001b[K\rremote: Counting objects:  56% (862/1539)\u001b[K\rremote: Counting objects:  57% (878/1539)\u001b[K\rremote: Counting objects:  58% (893/1539)\u001b[K\rremote: Counting objects:  59% (909/1539)\u001b[K\rremote: Counting objects:  60% (924/1539)\u001b[K\rremote: Counting objects:  61% (939/1539)\u001b[K\rremote: Counting objects:  62% (955/1539)\u001b[K\rremote: Counting objects:  63% (970/1539)\u001b[K\rremote: Counting objects:  64% (985/1539)\u001b[K\rremote: Counting objects:  65% (1001/1539)\u001b[K\rremote: Counting objects:  66% (1016/1539)\u001b[K\rremote: Counting objects:  67% (1032/1539)\u001b[K\rremote: Counting objects:  68% (1047/1539)\u001b[K\rremote: Counting objects:  69% (1062/1539)\u001b[K\rremote: Counting objects:  70% (1078/1539)\u001b[K\rremote: Counting objects:  71% (1093/1539)\u001b[K\rremote: Counting objects:  72% (1109/1539)\u001b[K\rremote: Counting objects:  73% (1124/1539)\u001b[K\rremote: Counting objects:  74% (1139/1539)\u001b[K\rremote: Counting objects:  75% (1155/1539)\u001b[K\rremote: Counting objects:  76% (1170/1539)\u001b[K\rremote: Counting objects:  77% (1186/1539)\u001b[K\rremote: Counting objects:  78% (1201/1539)\u001b[K\rremote: Counting objects:  79% (1216/1539)\u001b[K\rremote: Counting objects:  80% (1232/1539)\u001b[K\rremote: Counting objects:  81% (1247/1539)\u001b[K\rremote: Counting objects:  82% (1262/1539)\u001b[K\rremote: Counting objects:  83% (1278/1539)\u001b[K\rremote: Counting objects:  84% (1293/1539)\u001b[K\rremote: Counting objects:  85% (1309/1539)\u001b[K\rremote: Counting objects:  86% (1324/1539)\u001b[K\rremote: Counting objects:  87% (1339/1539)\u001b[K\rremote: Counting objects:  88% (1355/1539)\u001b[K\rremote: Counting objects:  89% (1370/1539)\u001b[K\rremote: Counting objects:  90% (1386/1539)\u001b[K\rremote: Counting objects:  91% (1401/1539)\u001b[K\rremote: Counting objects:  92% (1416/1539)\u001b[K\rremote: Counting objects:  93% (1432/1539)\u001b[K\rremote: Counting objects:  94% (1447/1539)\u001b[K\rremote: Counting objects:  95% (1463/1539)\u001b[K\rremote: Counting objects:  96% (1478/1539)\u001b[K\rremote: Counting objects:  97% (1493/1539)\u001b[K\rremote: Counting objects:  98% (1509/1539)\u001b[K\rremote: Counting objects:  99% (1524/1539)\u001b[K\rremote: Counting objects: 100% (1539/1539)\u001b[K\rremote: Counting objects: 100% (1539/1539), done.\u001b[K\r\n"}
+,{"stream_name":"stdout","time":33.528230975,"data":"remote: Compressing objects:   0% (1/352)\u001b[K\rremote: Compressing objects:   1% (4/352)\u001b[K\rremote: Compressing objects:   2% (8/352)\u001b[K\rremote: Compressing objects:   3% (11/352)\u001b[K\rremote: Compressing objects:   4% (15/352)\u001b[K\rremote: Compressing objects:   5% (18/352)\u001b[K\rremote: Compressing objects:   6% (22/352)\u001b[K\rremote: Compressing objects:   7% (25/352)\u001b[K\rremote: Compressing objects:   8% (29/352)\u001b[K\rremote: Compressing objects:   9% (32/352)\u001b[K\rremote: Compressing objects:  10% (36/352)\u001b[K\rremote: Compressing objects:  11% (39/352)\u001b[K\rremote: Compressing objects:  12% (43/352)\u001b[K\rremote: Compressing objects:  13% (46/352)\u001b[K\rremote: Compressing objects:  14% (50/352)\u001b[K\rremote: Compressing objects:  15% (53/352)\u001b[K\rremote: Compressing objects:  16% (57/352)\u001b[K\rremote: Compressing objects:  17% (60/352)\u001b[K\rremote: Compressing objects:  18% (64/352)\u001b[K\rremote: Compressing objects:  19% (67/352)\u001b[K\rremote: Compressing objects:  20% (71/352)\u001b[K\rremote: Compressing objects:  21% (74/352)\u001b[K\rremote: Compressing objects:  22% (78/352)\u001b[K\rremote: Compressing objects:  23% (81/352)\u001b[K\rremote: Compressing objects:  24% (85/352)\u001b[K\rremote: Compressing objects:  25% (88/352)\u001b[K\rremote: Compressing objects:  26% (92/352)\u001b[K\rremote: Compressing objects:  27% (96/352)\u001b[K\rremote: Compressing objects:  28% (99/352)\u001b[K\rremote: Compressing objects:  29% (103/352)\u001b[K\rremote: Compressing objects:  30% (106/352)\u001b[K\rremote: Compressing objects:  31% (110/352)\u001b[K\rremote: Compressing objects:  32% (113/352)\u001b[K\rremote: Compressing objects:  33% (117/352)\u001b[K\rremote: Compressing objects:  34% (120/352)\u001b[K\rremote: Compressing objects:  35% (124/352)\u001b[K\rremote: Compressing objects:  36% (127/352)\u001b[K\rremote: Compressing objects:  37% (131/352)\u001b[K\rremote: Compressing objects:  38% (134/352)\u001b[K\rremote: Compressing objects:  39% (138/352)\u001b[K\rremote: Compressing objects:  40% (141/352)\u001b[K\rremote: Compressing objects:  41% (145/352)\u001b[K\rremote: Compressing objects:  42% (148/352)\u001b[K\rremote: Compressing objects:  43% (152/352)\u001b[K\rremote: Compressing objects:  44% (155/352)\u001b[K\rremote: Compressing objects:  45% (159/352)\u001b[K\rremote: Compressing objects:  46% (162/352)\u001b[K\rremote: Compressing objects:  47% (166/352)\u001b[K\rremote: Compressing objects:  48% (169/352)\u001b[K\rremote: Compressing objects:  49% (173/352)\u001b[K\rremote: Compressing objects:  50% (176/352)\u001b[K\rremote: Compressing objects:  51% (180/352)\u001b[K\rremote: Compressing objects:  52% (184/352)\u001b[K\rremote: Compressing objects:  53% (187/352)\u001b[K\rremote: Compressing objects:  54% (191/352)\u001b[K\rremote: Compressing objects:  55% (194/352)\u001b[K\rremote: Compressing objects:  56% (198/352)\u001b[K\rremote: Compressing objects:  57% (201/352)\u001b[K\rremote: Compressing objects:  57% (204/352)\u001b[K\rremote: Compressing objects:  58% (205/352)\u001b[K\rremote: Compressing objects:  59% (208/352)\u001b[K\rremote: Compressing objects:  60% (212/352)\u001b[K\rremote: Compressing objects:  61% (215/352)\u001b[K\rremote: Compressing objects:  62% (219/352)\u001b[K\rremote: Compressing objects:  63% (222/352)\u001b[K\rremote: Compressing objects:  64% (226/352)\u001b[K\rremote: Compressing objects:  65% (229/352)\u001b[K\rremote: Compressing objects:  66% (233/352)\u001b[K\rremote: Compressing objects:  67% (236/352)\u001b[K\rremote: Compressing objects:  68% (240/352)\u001b[K\rremote: Compressing objects:  69% (243/352)\u001b[K\rremote: Compressing objects:  70% (247/352)\u001b[K\rremote: Compressing objects:  71% (250/352)\u001b[K\rremote: Compressing objects:  72% (254/352)\u001b[K\rremote: Compressing objects:  73% (257/352)\u001b[K\rremote: Compressing objects:  73% (258/352)\u001b[K\rremote: Compressing objects:  74% (261/352)\u001b[K\rremote: Compressing objects:  75% (264/352)\u001b[K\rremote: Compressing objects:  76% (268/352)\u001b[K\rremote: Compressing objects:  77% (272/352)\u001b[K\rremote: Compressing objects:  78% (275/352)\u001b[K\rremote: Compressing objects:  79% (279/352)\u001b[K\rremote: Compressing objects:  80% (282/352)\u001b[K\rremote: Compressing objects:  81% (286/352)\u001b[K\rremote: Compressing objects:  82% (289/352)\u001b[K\rremote: Compressing objects:  83% (293/352)\u001b[K\rremote: Compressing objects:  84% (296/352)\u001b[K\rremote: Compressing objects:  85% (300/352)\u001b[K\rremote: Compressing objects:  86% (303/352)\u001b[K\rremote: Compressing objects:  87% (307/352)\u001b[K\rremote: Compressing objects:  88% (310/352)\u001b[K\rremote: Compressing objects:  89% (314/352)\u001b[K\rremote: Compressing objects:  89% (316/352)\u001b[K\rremote: Compressing objects:  90% (317/352)\u001b[K\rremote: Compressing objects:  91% (321/352)\u001b[K\rremote: Compressing objects:  92% (324/352)\u001b[K\rremote: Compressing objects:  93% (328/352)\u001b[K\rremote: Compressing objects:  94% (331/352)\u001b[K\rremote: Compressing objects:  95% (335/352)\u001b[K\rremote: Compressing objects:  96% (338/352)\u001b[K\rremote: Compressing objects:  97% (342/352)\u001b[K\rremote: Compressing objects:  98% (345/352)\u001b[K\rremote: Compressing objects:  99% (349/352)\u001b[K\rremote: Compressing objects: 100% (352/352)\u001b[K\rremote: Compressing objects: 100% (352/352), done.\u001b[K\r\n"}
+,{"stream_name":"stdout","time":37.935386593,"data":"Receiving objects:   0% (1/1539)\rReceiving objects:   1% (16/1539)\rReceiving objects:   2% (31/1539)\rReceiving objects:   3% (47/1539), 852.00 KiB | 1.63 MiB/s\rReceiving objects:   4% (62/1539), 852.00 KiB | 1.63 MiB/s\rReceiving objects:   5% (77/1539), 852.00 KiB | 1.63 MiB/s\rReceiving objects:   5% (89/1539), 1.55 MiB | 1.52 MiB/s  \rReceiving objects:   6% (93/1539), 1.55 MiB | 1.52 MiB/s\rReceiving objects:   7% (108/1539), 1.55 MiB | 1.52 MiB/s\rReceiving objects:   8% (124/1539), 1.55 MiB | 1.52 MiB/s\rReceiving objects:   9% (139/1539), 2.29 MiB | 1.50 MiB/s\rReceiving objects:  10% (154/1539), 2.29 MiB | 1.50 MiB/s\rReceiving objects:  10% (165/1539), 2.29 MiB | 1.50 MiB/s\rReceiving objects:  11% (170/1539), 2.95 MiB | 1.43 MiB/s\rReceiving objects:  12% (185/1539), 2.95 MiB | 1.43 MiB/s\rReceiving objects:  13% (201/1539), 2.95 MiB | 1.43 MiB/s\rReceiving objects:  14% (216/1539), 2.95 MiB | 1.43 MiB/s\rReceiving objects:  15% (231/1539), 3.91 MiB | 1.52 MiB/s\rReceiving objects:  16% (247/1539), 3.91 MiB | 1.52 MiB/s\rReceiving objects:  16% (248/1539), 3.91 MiB | 1.52 MiB/s\rReceiving objects:  17% (262/1539), 4.45 MiB | 1.44 MiB/s\rReceiving objects:  18% (278/1539), 4.45 MiB | 1.44 MiB/s\rReceiving objects:  19% (293/1539), 4.45 MiB | 1.44 MiB/s\rReceiving objects:  20% (308/1539), 4.45 MiB | 1.44 MiB/s\rReceiving objects:  21% (324/1539), 5.28 MiB | 1.47 MiB/s\rReceiving objects:  22% (339/1539), 5.28 MiB | 1.47 MiB/s\rReceiving objects:  23% (354/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  24% (370/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  25% (385/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  26% (401/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  27% (416/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  28% (431/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  29% (447/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  30% (462/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  31% (478/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  32% (493/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  33% (508/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  34% (524/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  35% (539/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  36% (555/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  37% (570/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  38% (585/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  39% (601/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  40% (616/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  41% (631/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  42% (647/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  43% (662/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  44% (678/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  45% (693/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  46% (708/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  47% (724/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  48% (739/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  49% (755/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  50% (770/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  51% (785/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  52% (801/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  53% (816/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  54% (832/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  55% (847/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  56% (862/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  57% (878/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  58% (893/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  59% (909/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  60% (924/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  61% (939/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  62% (955/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  63% (970/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  64% (985/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  65% (1001/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  66% (1016/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  67% (1032/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  68% (1047/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  69% (1062/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  70% (1078/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  71% (1093/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  72% (1109/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  73% (1124/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  74% (1139/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  75% (1155/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  76% (1170/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  77% (1186/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  78% (1201/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  79% (1216/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  80% (1232/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  81% (1247/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  82% (1262/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  83% (1278/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  84% (1293/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  85% (1309/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  86% (1324/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  87% (1339/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  88% (1355/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  89% (1370/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  90% (1386/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  91% (1401/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  92% (1416/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  93% (1432/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  94% (1447/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  95% (1463/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  96% (1478/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  97% (1493/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects:  98% (1509/1539), 5.96 MiB | 1.45 MiB/s\rremote: Total 1539 (delta 1498), reused 1215 (delta 1185), pack-reused 0 (from 0)\u001b[K\r\n"}
+,{"stream_name":"stdout","time":37.935437806,"data":"Receiving objects:  99% (1524/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects: 100% (1539/1539), 5.96 MiB | 1.45 MiB/s\rReceiving objects: 100% (1539/1539), 7.84 MiB | 1.78 MiB/s, done.\r\n"}
+,{"stream_name":"stdout","time":38.593508511,"data":"Resolving deltas:   0% (0/1498)\rResolving deltas:   1% (15/1498)\rResolving deltas:   2% (30/1498)\rResolving deltas:   3% (45/1498)\rResolving deltas:   4% (60/1498)\rResolving deltas:   5% (75/1498)\rResolving deltas:   6% (90/1498)\rResolving deltas:   7% (105/1498)\rResolving deltas:   8% (120/1498)\rResolving deltas:   9% (135/1498)\rResolving deltas:  10% (150/1498)\rResolving deltas:  11% (165/1498)\rResolving deltas:  12% (180/1498)\rResolving deltas:  13% (195/1498)\rResolving deltas:  14% (210/1498)\rResolving deltas:  15% (225/1498)\rResolving deltas:  16% (240/1498)\rResolving deltas:  17% (255/1498)\rResolving deltas:  18% (270/1498)\rResolving deltas:  19% (285/1498)\rResolving deltas:  20% (300/1498)\rResolving deltas:  21% (315/1498)\rResolving deltas:  22% (330/1498)\rResolving deltas:  23% (345/1498)\rResolving deltas:  24% (360/1498)\rResolving deltas:  25% (375/1498)\rResolving deltas:  26% (390/1498)\rResolving deltas:  27% (405/1498)\rResolving deltas:  28% (420/1498)\rResolving deltas:  29% (435/1498)\rResolving deltas:  30% (450/1498)\rResolving deltas:  31% (465/1498)\rResolving deltas:  32% (480/1498)\rResolving deltas:  33% (495/1498)\rResolving deltas:  34% (510/1498)\rResolving deltas:  35% (525/1498)\rResolving deltas:  36% (540/1498)\rResolving deltas:  37% (555/1498)\rResolving deltas:  38% (570/1498)\rResolving deltas:  39% (585/1498)\rResolving deltas:  40% (600/1498)\rResolving deltas:  41% (615/1498)\rResolving deltas:  42% (630/1498)\rResolving deltas:  43% (645/1498)\rResolving deltas:  44% (660/1498)\rResolving deltas:  45% (675/1498)\rResolving deltas:  46% (690/1498)\rResolving deltas:  47% (705/1498)\rResolving deltas:  48% (720/1498)\rResolving deltas:  49% (735/1498)\rResolving deltas:  50% (749/1498)\rResolving deltas:  51% (764/1498)\rResolving deltas:  52% (779/1498)\rResolving deltas:  53% (794/1498)\rResolving deltas:  54% (809/1498)\rResolving deltas:  55% (824/1498)\rResolving deltas:  56% (839/1498)\rResolving deltas:  57% (854/1498)\rResolving deltas:  58% (869/1498)\rResolving deltas:  59% (884/1498)\rResolving deltas:  60% (899/1498)\rResolving deltas:  61% (914/1498)\rResolving deltas:  62% (929/1498)\rResolving deltas:  63% (944/1498)\rResolving deltas:  64% (959/1498)\rResolving deltas:  65% (974/1498)\rResolving deltas:  66% (989/1498)\rResolving deltas:  67% (1004/1498)\rResolving deltas:  68% (1019/1498)\rResolving deltas:  69% (1034/1498)\rResolving deltas:  70% (1049/1498)\rResolving deltas:  71% (1064/1498)\rResolving deltas:  72% (1079/1498)\rResolving deltas:  73% (1094/1498)\rResolving deltas:  74% (1109/1498)\rResolving deltas:  75% (1124/1498)\rResolving deltas:  76% (1139/1498)\rResolving deltas:  77% (1154/1498)\rResolving deltas:  78% (1169/1498)\rResolving deltas:  79% (1184/1498)\rResolving deltas:  80% (1200/1498)\rResolving deltas:  81% (1214/1498)\rResolving deltas:  82% (1229/1498)\rResolving deltas:  83% (1244/1498)\rResolving deltas:  84% (1259/1498)\rResolving deltas:  85% (1274/1498)\rResolving deltas:  86% (1289/1498)\rResolving deltas:  87% (1304/1498)\rResolving deltas:  88% (1320/1498)\rResolving deltas:  89% (1334/1498)\rResolving deltas:  90% (1349/1498)\rResolving deltas:  91% (1364/1498)\rResolving deltas:  92% (1379/1498)\rResolving deltas:  93% (1394/1498)\rResolving deltas:  94% (1409/1498)\rResolving deltas:  95% (1424/1498)\rResolving deltas:  96% (1439/1498)\rResolving deltas:  97% (1454/1498)\rResolving deltas:  98% (1470/1498)\rResolving deltas:  99% (1484/1498)\rResolving deltas: 100% (1498/1498)\rResolving deltas: 100% (1498/1498), done.\r\n"}
+,{"stream_name":"stdout","time":41.989246761,"data":"  0.21 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":44.420829736,"data":"  0.42 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":46.80654663,"data":"  0.63 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":49.191207274,"data":"  0.84 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":51.629277606,"data":"  1.05 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":54.061005846,"data":"  1.26 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":56.542912808,"data":"  1.47 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":59.34014949,"data":"  1.68 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":62.171229823,"data":"  1.89 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":64.861979035,"data":"  2.10 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":67.45467446,"data":"  2.31 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":70.751895504,"data":"  2.52 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":73.641722809,"data":"  2.73 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":76.384005404,"data":"  2.94 / 3.08 GB\r\n"}
+,{"stream_name":"stdout","time":82.734283939,"data":"346 clips in /kaggle/working/JAAD/JAAD_clips\r\n"}
+,{"stream_name":"stdout","time":85.562646823,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":85.562698459,"data":"Generating database for jaad\n"}
+,{"stream_name":"stdout","time":85.562705994,"data":"Getting annotations for video_0001\n"}
+,{"stream_name":"stdout","time":85.562711767,"data":"Getting annotations for video_0002\n"}
+,{"stream_name":"stdout","time":85.562717262,"data":"Getting annotations for video_0003\n"}
+,{"stream_name":"stdout","time":85.562722284,"data":"Getting annotations for video_0004\n"}
+,{"stream_name":"stdout","time":85.562727821,"data":"Getting annotations for video_0005\n"}
+,{"stream_name":"stdout","time":85.804777213,"data":"Getting annotations for video_0006\n"}
+,{"stream_name":"stdout","time":85.804806522,"data":"Getting annotations for video_0007\n"}
+,{"stream_name":"stdout","time":85.804812101,"data":"Getting annotations for video_0008\n"}
+,{"stream_name":"stdout","time":85.804817228,"data":"Getting annotations for video_0009\n"}
+,{"stream_name":"stdout","time":86.019889643,"data":"Getting annotations for video_0010\n"}
+,{"stream_name":"stdout","time":86.019924988,"data":"Getting annotations for video_0011\n"}
+,{"stream_name":"stdout","time":86.019929503,"data":"Getting annotations for video_0012\n"}
+,{"stream_name":"stdout","time":86.019932865,"data":"Getting annotations for video_0013\n"}
+,{"stream_name":"stdout","time":86.019936389,"data":"Getting annotations for video_0014\n"}
+,{"stream_name":"stdout","time":86.019939694,"data":"Getting annotations for video_0015\n"}
+,{"stream_name":"stdout","time":86.019943104,"data":"Getting annotations for video_0016\n"}
+,{"stream_name":"stdout","time":86.01994719,"data":"Getting annotations for video_0017\n"}
+,{"stream_name":"stdout","time":86.019966288,"data":"Getting annotations for video_0018\n"}
+,{"stream_name":"stdout","time":86.019972074,"data":"Getting annotations for video_0019\n"}
+,{"stream_name":"stdout","time":86.231457078,"data":"Getting annotations for video_0020\n"}
+,{"stream_name":"stdout","time":86.231484993,"data":"Getting annotations for video_0021\n"}
+,{"stream_name":"stdout","time":86.231491046,"data":"Getting annotations for video_0022\n"}
+,{"stream_name":"stdout","time":86.231496047,"data":"Getting annotations for video_0023\n"}
+,{"stream_name":"stdout","time":86.231501327,"data":"Getting annotations for video_0024\n"}
+,{"stream_name":"stdout","time":86.460540455,"data":"Getting annotations for video_0025\n"}
+,{"stream_name":"stdout","time":86.460572275,"data":"Getting annotations for video_0026\n"}
+,{"stream_name":"stdout","time":86.730594568,"data":"Getting annotations for video_0027\n"}
+,{"stream_name":"stdout","time":86.730621475,"data":"Getting annotations for video_0028\n"}
+,{"stream_name":"stdout","time":86.73062634,"data":"Getting annotations for video_0029\n"}
+,{"stream_name":"stdout","time":86.730630681,"data":"Getting annotations for video_0030\n"}
+,{"stream_name":"stdout","time":86.730634741,"data":"Getting annotations for video_0031\n"}
+,{"stream_name":"stdout","time":87.014218398,"data":"Getting annotations for video_0032\n"}
+,{"stream_name":"stdout","time":87.014286252,"data":"Getting annotations for video_0033\n"}
+,{"stream_name":"stdout","time":87.014292774,"data":"Getting annotations for video_0034\n"}
+,{"stream_name":"stdout","time":87.014301146,"data":"Getting annotations for video_0035\n"}
+,{"stream_name":"stdout","time":87.014305416,"data":"Getting annotations for video_0036\n"}
+,{"stream_name":"stdout","time":87.014309382,"data":"Getting annotations for video_0037\n"}
+,{"stream_name":"stdout","time":87.014312897,"data":"Getting annotations for video_0038\n"}
+,{"stream_name":"stdout","time":87.014316456,"data":"Getting annotations for video_0039\n"}
+,{"stream_name":"stdout","time":87.29549048,"data":"Getting annotations for video_0040\n"}
+,{"stream_name":"stdout","time":87.295517345,"data":"Getting annotations for video_0041\n"}
+,{"stream_name":"stdout","time":87.295521948,"data":"Getting annotations for video_0042\n"}
+,{"stream_name":"stdout","time":87.295525396,"data":"Getting annotations for video_0043\n"}
+,{"stream_name":"stdout","time":87.295528838,"data":"Getting annotations for video_0044\n"}
+,{"stream_name":"stdout","time":87.295532256,"data":"Getting annotations for video_0045\n"}
+,{"stream_name":"stdout","time":87.295535446,"data":"Getting annotations for video_0046\n"}
+,{"stream_name":"stdout","time":87.295540175,"data":"Getting annotations for video_0047\n"}
+,{"stream_name":"stdout","time":87.295548053,"data":"Getting annotations for video_0048\n"}
+,{"stream_name":"stdout","time":87.295550273,"data":"Getting annotations for video_0049\n"}
+,{"stream_name":"stdout","time":87.581039877,"data":"Getting annotations for video_0050\n"}
+,{"stream_name":"stdout","time":87.58106617,"data":"Getting annotations for video_0051\n"}
+,{"stream_name":"stdout","time":87.581070665,"data":"Getting annotations for video_0052\n"}
+,{"stream_name":"stdout","time":87.581074084,"data":"Getting annotations for video_0053\n"}
+,{"stream_name":"stdout","time":87.581077843,"data":"Getting annotations for video_0054\n"}
+,{"stream_name":"stdout","time":87.790800788,"data":"Getting annotations for video_0055\n"}
+,{"stream_name":"stdout","time":87.790862523,"data":"Getting annotations for video_0056\n"}
+,{"stream_name":"stdout","time":87.7908713,"data":"Getting annotations for video_0057\n"}
+,{"stream_name":"stdout","time":87.790876638,"data":"Getting annotations for video_0058\n"}
+,{"stream_name":"stdout","time":87.790881926,"data":"Getting annotations for video_0059\n"}
+,{"stream_name":"stdout","time":87.790886944,"data":"Getting annotations for video_0060\n"}
+,{"stream_name":"stdout","time":87.790892016,"data":"Getting annotations for video_0061\n"}
+,{"stream_name":"stdout","time":87.790896599,"data":"Getting annotations for video_0062\n"}
+,{"stream_name":"stdout","time":88.072710591,"data":"Getting annotations for video_0063\n"}
+,{"stream_name":"stdout","time":88.072745323,"data":"Getting annotations for video_0064\n"}
+,{"stream_name":"stdout","time":88.072749868,"data":"Getting annotations for video_0065\n"}
+,{"stream_name":"stdout","time":88.072765427,"data":"Getting annotations for video_0066\n"}
+,{"stream_name":"stdout","time":88.07276806,"data":"Getting annotations for video_0067\n"}
+,{"stream_name":"stdout","time":88.425678429,"data":"Getting annotations for video_0068\n"}
+,{"stream_name":"stdout","time":88.425705301,"data":"Getting annotations for video_0069\n"}
+,{"stream_name":"stdout","time":88.425709985,"data":"Getting annotations for video_0070\n"}
+,{"stream_name":"stdout","time":88.425713862,"data":"Getting annotations for video_0071\n"}
+,{"stream_name":"stdout","time":88.425717563,"data":"Getting annotations for video_0072\n"}
+,{"stream_name":"stdout","time":88.686228189,"data":"Getting annotations for video_0073\n"}
+,{"stream_name":"stdout","time":88.686255585,"data":"Getting annotations for video_0074\n"}
+,{"stream_name":"stdout","time":88.686278215,"data":"Getting annotations for video_0075\n"}
+,{"stream_name":"stdout","time":88.686282425,"data":"Getting annotations for video_0076\n"}
+,{"stream_name":"stdout","time":88.686286604,"data":"Getting annotations for video_0077\n"}
+,{"stream_name":"stdout","time":88.686290864,"data":"Getting annotations for video_0078\n"}
+,{"stream_name":"stdout","time":89.123698767,"data":"Getting annotations for video_0079\n"}
+,{"stream_name":"stdout","time":89.123724208,"data":"Getting annotations for video_0080\n"}
+,{"stream_name":"stdout","time":89.123729126,"data":"Getting annotations for video_0081\n"}
+,{"stream_name":"stdout","time":89.123732916,"data":"Getting annotations for video_0082\n"}
+,{"stream_name":"stdout","time":89.123736961,"data":"Getting annotations for video_0083\n"}
+,{"stream_name":"stdout","time":89.370913754,"data":"Getting annotations for video_0084\n"}
+,{"stream_name":"stdout","time":89.370948565,"data":"Getting annotations for video_0085\n"}
+,{"stream_name":"stdout","time":89.370954557,"data":"Getting annotations for video_0086\n"}
+,{"stream_name":"stdout","time":89.370959116,"data":"Getting annotations for video_0087\n"}
+,{"stream_name":"stdout","time":89.591306656,"data":"Getting annotations for video_0088\n"}
+,{"stream_name":"stdout","time":89.591335316,"data":"Getting annotations for video_0089\n"}
+,{"stream_name":"stdout","time":89.591357736,"data":"Getting annotations for video_0090\n"}
+,{"stream_name":"stdout","time":89.591360979,"data":"Getting annotations for video_0091\n"}
+,{"stream_name":"stdout","time":89.591365675,"data":"Getting annotations for video_0092\n"}
+,{"stream_name":"stdout","time":89.816069916,"data":"Getting annotations for video_0093\n"}
+,{"stream_name":"stdout","time":89.816096434,"data":"Getting annotations for video_0094\n"}
+,{"stream_name":"stdout","time":89.816100941,"data":"Getting annotations for video_0095\n"}
+,{"stream_name":"stdout","time":89.816104189,"data":"Getting annotations for video_0096\n"}
+,{"stream_name":"stdout","time":89.816108922,"data":"Getting annotations for video_0097\n"}
+,{"stream_name":"stdout","time":90.05928362,"data":"Getting annotations for video_0098\n"}
+,{"stream_name":"stdout","time":90.059313379,"data":"Getting annotations for video_0099\n"}
+,{"stream_name":"stdout","time":90.059319151,"data":"Getting annotations for video_0100\n"}
+,{"stream_name":"stdout","time":90.059323045,"data":"Getting annotations for video_0101\n"}
+,{"stream_name":"stdout","time":90.059326755,"data":"Getting annotations for video_0102\n"}
+,{"stream_name":"stdout","time":90.273270896,"data":"Getting annotations for video_0103\n"}
+,{"stream_name":"stdout","time":90.273305188,"data":"Getting annotations for video_0104\n"}
+,{"stream_name":"stdout","time":90.27333752,"data":"Getting annotations for video_0105\n"}
+,{"stream_name":"stdout","time":90.273343485,"data":"Getting annotations for video_0106\n"}
+,{"stream_name":"stdout","time":90.523041828,"data":"Getting annotations for video_0107\n"}
+,{"stream_name":"stdout","time":90.523071245,"data":"Getting annotations for video_0108\n"}
+,{"stream_name":"stdout","time":90.52307578,"data":"Getting annotations for video_0109\n"}
+,{"stream_name":"stdout","time":90.733112774,"data":"Getting annotations for video_0110\n"}
+,{"stream_name":"stdout","time":90.733156809,"data":"Getting annotations for video_0111\n"}
+,{"stream_name":"stdout","time":90.733165327,"data":"Getting annotations for video_0112\n"}
+,{"stream_name":"stdout","time":90.733169645,"data":"Getting annotations for video_0113\n"}
+,{"stream_name":"stdout","time":90.952810773,"data":"Getting annotations for video_0114\n"}
+,{"stream_name":"stdout","time":90.95283696,"data":"Getting annotations for video_0115\n"}
+,{"stream_name":"stdout","time":90.952841354,"data":"Getting annotations for video_0116\n"}
+,{"stream_name":"stdout","time":91.163810746,"data":"Getting annotations for video_0117\n"}
+,{"stream_name":"stdout","time":91.163857711,"data":"Getting annotations for video_0118\n"}
+,{"stream_name":"stdout","time":91.16386388,"data":"Getting annotations for video_0119\n"}
+,{"stream_name":"stdout","time":91.163867659,"data":"Getting annotations for video_0120\n"}
+,{"stream_name":"stdout","time":91.442906016,"data":"Getting annotations for video_0121\n"}
+,{"stream_name":"stdout","time":91.442950006,"data":"Getting annotations for video_0122\n"}
+,{"stream_name":"stdout","time":91.442953471,"data":"Getting annotations for video_0123\n"}
+,{"stream_name":"stdout","time":91.442955743,"data":"Getting annotations for video_0124\n"}
+,{"stream_name":"stdout","time":91.671057775,"data":"Getting annotations for video_0125\n"}
+,{"stream_name":"stdout","time":91.671085161,"data":"Getting annotations for video_0126\n"}
+,{"stream_name":"stdout","time":91.671091012,"data":"Getting annotations for video_0127\n"}
+,{"stream_name":"stdout","time":91.67109527,"data":"Getting annotations for video_0128\n"}
+,{"stream_name":"stdout","time":91.671099039,"data":"Getting annotations for video_0129\n"}
+,{"stream_name":"stdout","time":91.907781563,"data":"Getting annotations for video_0130\n"}
+,{"stream_name":"stdout","time":91.907815791,"data":"Getting annotations for video_0131\n"}
+,{"stream_name":"stdout","time":91.907820755,"data":"Getting annotations for video_0132\n"}
+,{"stream_name":"stdout","time":91.907824598,"data":"Getting annotations for video_0133\n"}
+,{"stream_name":"stdout","time":91.907828333,"data":"Getting annotations for video_0134\n"}
+,{"stream_name":"stdout","time":92.230335441,"data":"Getting annotations for video_0135\n"}
+,{"stream_name":"stdout","time":92.700647223,"data":"Getting annotations for video_0136\n"}
+,{"stream_name":"stdout","time":92.700675411,"data":"Getting annotations for video_0137\n"}
+,{"stream_name":"stdout","time":92.700680723,"data":"Getting annotations for video_0138\n"}
+,{"stream_name":"stdout","time":92.700685185,"data":"Getting annotations for video_0139\n"}
+,{"stream_name":"stdout","time":92.942814519,"data":"Getting annotations for video_0140\n"}
+,{"stream_name":"stdout","time":92.942848326,"data":"Getting annotations for video_0141\n"}
+,{"stream_name":"stdout","time":92.942853061,"data":"Getting annotations for video_0142\n"}
+,{"stream_name":"stdout","time":92.942857204,"data":"Getting annotations for video_0143\n"}
+,{"stream_name":"stdout","time":92.942932942,"data":"Getting annotations for video_0144\n"}
+,{"stream_name":"stdout","time":93.193887457,"data":"Getting annotations for video_0145\n"}
+,{"stream_name":"stdout","time":93.193916561,"data":"Getting annotations for video_0146\n"}
+,{"stream_name":"stdout","time":93.193922185,"data":"Getting annotations for video_0147\n"}
+,{"stream_name":"stdout","time":93.405412965,"data":"Getting annotations for video_0148\n"}
+,{"stream_name":"stdout","time":93.405441776,"data":"Getting annotations for video_0149\n"}
+,{"stream_name":"stdout","time":93.405447019,"data":"Getting annotations for video_0150\n"}
+,{"stream_name":"stdout","time":93.405451359,"data":"Getting annotations for video_0151\n"}
+,{"stream_name":"stdout","time":93.957769235,"data":"Getting annotations for video_0152\n"}
+,{"stream_name":"stdout","time":93.957797683,"data":"Getting annotations for video_0153\n"}
+,{"stream_name":"stdout","time":94.199910891,"data":"Getting annotations for video_0154\n"}
+,{"stream_name":"stdout","time":94.199935619,"data":"Getting annotations for video_0155\n"}
+,{"stream_name":"stdout","time":94.199939813,"data":"Getting annotations for video_0156\n"}
+,{"stream_name":"stdout","time":94.199943279,"data":"Getting annotations for video_0157\n"}
+,{"stream_name":"stdout","time":94.199946713,"data":"Getting annotations for video_0158\n"}
+,{"stream_name":"stdout","time":94.433294546,"data":"Getting annotations for video_0159\n"}
+,{"stream_name":"stdout","time":94.433319331,"data":"Getting annotations for video_0160\n"}
+,{"stream_name":"stdout","time":94.433324066,"data":"Getting annotations for video_0161\n"}
+,{"stream_name":"stdout","time":94.433328237,"data":"Getting annotations for video_0162\n"}
+,{"stream_name":"stdout","time":94.433332506,"data":"Getting annotations for video_0163\n"}
+,{"stream_name":"stdout","time":94.65212501,"data":"Getting annotations for video_0164\n"}
+,{"stream_name":"stdout","time":94.652164878,"data":"Getting annotations for video_0165\n"}
+,{"stream_name":"stdout","time":94.652169212,"data":"Getting annotations for video_0166\n"}
+,{"stream_name":"stdout","time":94.652172708,"data":"Getting annotations for video_0167\n"}
+,{"stream_name":"stdout","time":94.89185109,"data":"Getting annotations for video_0168\n"}
+,{"stream_name":"stdout","time":94.891892144,"data":"Getting annotations for video_0169\n"}
+,{"stream_name":"stdout","time":94.891896589,"data":"Getting annotations for video_0170\n"}
+,{"stream_name":"stdout","time":94.891900165,"data":"Getting annotations for video_0171\n"}
+,{"stream_name":"stdout","time":94.891903749,"data":"Getting annotations for video_0172\n"}
+,{"stream_name":"stdout","time":94.8919071,"data":"Getting annotations for video_0173\n"}
+,{"stream_name":"stdout","time":94.891910552,"data":"Getting annotations for video_0174\n"}
+,{"stream_name":"stdout","time":95.112360067,"data":"Getting annotations for video_0175\n"}
+,{"stream_name":"stdout","time":95.112386689,"data":"Getting annotations for video_0176\n"}
+,{"stream_name":"stdout","time":95.112391191,"data":"Getting annotations for video_0177\n"}
+,{"stream_name":"stdout","time":95.370388108,"data":"Getting annotations for video_0178\n"}
+,{"stream_name":"stdout","time":95.370419442,"data":"Getting annotations for video_0179\n"}
+,{"stream_name":"stdout","time":95.370424357,"data":"Getting annotations for video_0180\n"}
+,{"stream_name":"stdout","time":95.370428407,"data":"Getting annotations for video_0181\n"}
+,{"stream_name":"stdout","time":95.370432377,"data":"Getting annotations for video_0182\n"}
+,{"stream_name":"stdout","time":95.370465665,"data":"Getting annotations for video_0183\n"}
+,{"stream_name":"stdout","time":95.600286219,"data":"Getting annotations for video_0184\n"}
+,{"stream_name":"stdout","time":95.600310957,"data":"Getting annotations for video_0185\n"}
+,{"stream_name":"stdout","time":95.600315216,"data":"Getting annotations for video_0186\n"}
+,{"stream_name":"stdout","time":95.60031881,"data":"Getting annotations for video_0187\n"}
+,{"stream_name":"stdout","time":95.892218117,"data":"Getting annotations for video_0188\n"}
+,{"stream_name":"stdout","time":95.892246137,"data":"Getting annotations for video_0189\n"}
+,{"stream_name":"stdout","time":95.892250481,"data":"Getting annotations for video_0190\n"}
+,{"stream_name":"stdout","time":95.892254222,"data":"Getting annotations for video_0191\n"}
+,{"stream_name":"stdout","time":96.162767551,"data":"Getting annotations for video_0192\n"}
+,{"stream_name":"stdout","time":96.162796183,"data":"Getting annotations for video_0193\n"}
+,{"stream_name":"stdout","time":96.162801675,"data":"Getting annotations for video_0194\n"}
+,{"stream_name":"stdout","time":96.383199588,"data":"Getting annotations for video_0195\n"}
+,{"stream_name":"stdout","time":96.383245735,"data":"Getting annotations for video_0196\n"}
+,{"stream_name":"stdout","time":96.383251655,"data":"Getting annotations for video_0197\n"}
+,{"stream_name":"stdout","time":96.383256668,"data":"Getting annotations for video_0198\n"}
+,{"stream_name":"stdout","time":96.383261215,"data":"Getting annotations for video_0199\n"}
+,{"stream_name":"stdout","time":96.38326578,"data":"Getting annotations for video_0200\n"}
+,{"stream_name":"stdout","time":96.596399894,"data":"Getting annotations for video_0201\n"}
+,{"stream_name":"stdout","time":96.5964279,"data":"Getting annotations for video_0202\n"}
+,{"stream_name":"stdout","time":96.596433801,"data":"Getting annotations for video_0203\n"}
+,{"stream_name":"stdout","time":96.596438497,"data":"Getting annotations for video_0204\n"}
+,{"stream_name":"stdout","time":96.59644292,"data":"Getting annotations for video_0205\n"}
+,{"stream_name":"stdout","time":96.596446855,"data":"Getting annotations for video_0206\n"}
+,{"stream_name":"stdout","time":96.596450776,"data":"Getting annotations for video_0207\n"}
+,{"stream_name":"stdout","time":96.596454699,"data":"Getting annotations for video_0208\n"}
+,{"stream_name":"stdout","time":96.8275583,"data":"Getting annotations for video_0209\n"}
+,{"stream_name":"stdout","time":96.827585143,"data":"Getting annotations for video_0210\n"}
+,{"stream_name":"stdout","time":96.827589429,"data":"Getting annotations for video_0211\n"}
+,{"stream_name":"stdout","time":96.827593003,"data":"Getting annotations for video_0212\n"}
+,{"stream_name":"stdout","time":96.82759660400001,"data":"Getting annotations for video_0213\n"}
+,{"stream_name":"stdout","time":97.063310931,"data":"Getting annotations for video_0214\n"}
+,{"stream_name":"stdout","time":97.063336537,"data":"Getting annotations for video_0215\n"}
+,{"stream_name":"stdout","time":97.063344339,"data":"Getting annotations for video_0216\n"}
+,{"stream_name":"stdout","time":97.063346797,"data":"Getting annotations for video_0217\n"}
+,{"stream_name":"stdout","time":97.286235023,"data":"Getting annotations for video_0218\n"}
+,{"stream_name":"stdout","time":97.286272729,"data":"Getting annotations for video_0219\n"}
+,{"stream_name":"stdout","time":97.286276556,"data":"Getting annotations for video_0220\n"}
+,{"stream_name":"stdout","time":97.286279229,"data":"Getting annotations for video_0221\n"}
+,{"stream_name":"stdout","time":97.552686891,"data":"Getting annotations for video_0222\n"}
+,{"stream_name":"stdout","time":97.552717854,"data":"Getting annotations for video_0223\n"}
+,{"stream_name":"stdout","time":97.989924124,"data":"Getting annotations for video_0224\n"}
+,{"stream_name":"stdout","time":97.989950512,"data":"Getting annotations for video_0225\n"}
+,{"stream_name":"stdout","time":98.237212125,"data":"Getting annotations for video_0226\n"}
+,{"stream_name":"stdout","time":98.237263372,"data":"Getting annotations for video_0227\n"}
+,{"stream_name":"stdout","time":98.237269622,"data":"Getting annotations for video_0228\n"}
+,{"stream_name":"stdout","time":98.237274855,"data":"Getting annotations for video_0229\n"}
+,{"stream_name":"stdout","time":98.237279272,"data":"Getting annotations for video_0230\n"}
+,{"stream_name":"stdout","time":98.47302855,"data":"Getting annotations for video_0231\n"}
+,{"stream_name":"stdout","time":98.473056544,"data":"Getting annotations for video_0232\n"}
+,{"stream_name":"stdout","time":98.706882949,"data":"Getting annotations for video_0233\n"}
+,{"stream_name":"stdout","time":98.706911767,"data":"Getting annotations for video_0234\n"}
+,{"stream_name":"stdout","time":98.706916966,"data":"Getting annotations for video_0235\n"}
+,{"stream_name":"stdout","time":98.92088737,"data":"Getting annotations for video_0236\n"}
+,{"stream_name":"stdout","time":98.920916207,"data":"Getting annotations for video_0237\n"}
+,{"stream_name":"stdout","time":98.92091934,"data":"Getting annotations for video_0238\n"}
+,{"stream_name":"stdout","time":98.920922144,"data":"Getting annotations for video_0239\n"}
+,{"stream_name":"stdout","time":98.920924984,"data":"Getting annotations for video_0240\n"}
+,{"stream_name":"stdout","time":99.154102764,"data":"Getting annotations for video_0241\n"}
+,{"stream_name":"stdout","time":99.15412456,"data":"Getting annotations for video_0242\n"}
+,{"stream_name":"stdout","time":99.154129068,"data":"Getting annotations for video_0243\n"}
+,{"stream_name":"stdout","time":99.154151203,"data":"Getting annotations for video_0244\n"}
+,{"stream_name":"stdout","time":99.154155308,"data":"Getting annotations for video_0245\n"}
+,{"stream_name":"stdout","time":99.154158803,"data":"Getting annotations for video_0246\n"}
+,{"stream_name":"stdout","time":99.154162253,"data":"Getting annotations for video_0247\n"}
+,{"stream_name":"stdout","time":99.410281689,"data":"Getting annotations for video_0248\n"}
+,{"stream_name":"stdout","time":99.410306713,"data":"Getting annotations for video_0249\n"}
+,{"stream_name":"stdout","time":99.410311142,"data":"Getting annotations for video_0250\n"}
+,{"stream_name":"stdout","time":99.410314956,"data":"Getting annotations for video_0251\n"}
+,{"stream_name":"stdout","time":99.616071375,"data":"Getting annotations for video_0252\n"}
+,{"stream_name":"stdout","time":99.616094772,"data":"Getting annotations for video_0253\n"}
+,{"stream_name":"stdout","time":99.616098973,"data":"Getting annotations for video_0254\n"}
+,{"stream_name":"stdout","time":99.616102589,"data":"Getting annotations for video_0255\n"}
+,{"stream_name":"stdout","time":99.616105975,"data":"Getting annotations for video_0256\n"}
+,{"stream_name":"stdout","time":99.616109419,"data":"Getting annotations for video_0257\n"}
+,{"stream_name":"stdout","time":99.616112869,"data":"Getting annotations for video_0258\n"}
+,{"stream_name":"stdout","time":99.836099632,"data":"Getting annotations for video_0259\n"}
+,{"stream_name":"stdout","time":99.836127559,"data":"Getting annotations for video_0260\n"}
+,{"stream_name":"stdout","time":99.836160167,"data":"Getting annotations for video_0261\n"}
+,{"stream_name":"stdout","time":99.836188571,"data":"Getting annotations for video_0262\n"}
+,{"stream_name":"stdout","time":99.836193081,"data":"Getting annotations for video_0263\n"}
+,{"stream_name":"stdout","time":99.836197238,"data":"Getting annotations for video_0264\n"}
+,{"stream_name":"stdout","time":100.084424184,"data":"Getting annotations for video_0265\n"}
+,{"stream_name":"stdout","time":100.084448434,"data":"Getting annotations for video_0266\n"}
+,{"stream_name":"stdout","time":100.290861003,"data":"Getting annotations for video_0267\n"}
+,{"stream_name":"stdout","time":100.29088798,"data":"Getting annotations for video_0268\n"}
+,{"stream_name":"stdout","time":100.497100206,"data":"Getting annotations for video_0269\n"}
+,{"stream_name":"stdout","time":100.497125311,"data":"Getting annotations for video_0270\n"}
+,{"stream_name":"stdout","time":100.497129902,"data":"Getting annotations for video_0271\n"}
+,{"stream_name":"stdout","time":100.773754324,"data":"Getting annotations for video_0272\n"}
+,{"stream_name":"stdout","time":100.773787073,"data":"Getting annotations for video_0273\n"}
+,{"stream_name":"stdout","time":100.773792466,"data":"Getting annotations for video_0274\n"}
+,{"stream_name":"stdout","time":100.773796751,"data":"Getting annotations for video_0275\n"}
+,{"stream_name":"stdout","time":100.773800892,"data":"Getting annotations for video_0276\n"}
+,{"stream_name":"stdout","time":100.77381485,"data":"Getting annotations for video_0277\n"}
+,{"stream_name":"stdout","time":101.028347305,"data":"Getting annotations for video_0278\n"}
+,{"stream_name":"stdout","time":101.028379447,"data":"Getting annotations for video_0279\n"}
+,{"stream_name":"stdout","time":101.028385036,"data":"Getting annotations for video_0280\n"}
+,{"stream_name":"stdout","time":101.028391312,"data":"Getting annotations for video_0281\n"}
+,{"stream_name":"stdout","time":101.02839985,"data":"Getting annotations for video_0282\n"}
+,{"stream_name":"stdout","time":101.028403713,"data":"Getting annotations for video_0283\n"}
+,{"stream_name":"stdout","time":101.028406331,"data":"Getting annotations for video_0284\n"}
+,{"stream_name":"stdout","time":101.028409002,"data":"Getting annotations for video_0285\n"}
+,{"stream_name":"stdout","time":101.028411585,"data":"Getting annotations for video_0286\n"}
+,{"stream_name":"stdout","time":101.257558966,"data":"Getting annotations for video_0287\n"}
+,{"stream_name":"stdout","time":101.257582364,"data":"Getting annotations for video_0288\n"}
+,{"stream_name":"stdout","time":101.257591245,"data":"Getting annotations for video_0289\n"}
+,{"stream_name":"stdout","time":101.257594261,"data":"Getting annotations for video_0290\n"}
+,{"stream_name":"stdout","time":101.257596727,"data":"Getting annotations for video_0291\n"}
+,{"stream_name":"stdout","time":101.257598944,"data":"Getting annotations for video_0292\n"}
+,{"stream_name":"stdout","time":101.515495774,"data":"Getting annotations for video_0293\n"}
+,{"stream_name":"stdout","time":101.515524197,"data":"Getting annotations for video_0294\n"}
+,{"stream_name":"stdout","time":101.515529012,"data":"Getting annotations for video_0295\n"}
+,{"stream_name":"stdout","time":101.51553283,"data":"Getting annotations for video_0296\n"}
+,{"stream_name":"stdout","time":101.515536398,"data":"Getting annotations for video_0297\n"}
+,{"stream_name":"stdout","time":101.817584041,"data":"Getting annotations for video_0298\n"}
+,{"stream_name":"stdout","time":101.817612183,"data":"Getting annotations for video_0299\n"}
+,{"stream_name":"stdout","time":101.817616626,"data":"Getting annotations for video_0300\n"}
+,{"stream_name":"stdout","time":101.817636758,"data":"Getting annotations for video_0301\n"}
+,{"stream_name":"stdout","time":101.817639451,"data":"Getting annotations for video_0302\n"}
+,{"stream_name":"stdout","time":102.06077278,"data":"Getting annotations for video_0303\n"}
+,{"stream_name":"stdout","time":102.060799998,"data":"Getting annotations for video_0304\n"}
+,{"stream_name":"stdout","time":102.060804373,"data":"Getting annotations for video_0305\n"}
+,{"stream_name":"stdout","time":102.060808055,"data":"Getting annotations for video_0306\n"}
+,{"stream_name":"stdout","time":102.060811647,"data":"Getting annotations for video_0307\n"}
+,{"stream_name":"stdout","time":102.316828884,"data":"Getting annotations for video_0308\n"}
+,{"stream_name":"stdout","time":102.316857092,"data":"Getting annotations for video_0309\n"}
+,{"stream_name":"stdout","time":102.316862505,"data":"Getting annotations for video_0310\n"}
+,{"stream_name":"stdout","time":102.31686659,"data":"Getting annotations for video_0311\n"}
+,{"stream_name":"stdout","time":102.540256397,"data":"Getting annotations for video_0312\n"}
+,{"stream_name":"stdout","time":102.540291045,"data":"Getting annotations for video_0313\n"}
+,{"stream_name":"stdout","time":102.840180928,"data":"Getting annotations for video_0314\n"}
+,{"stream_name":"stdout","time":102.840218588,"data":"Getting annotations for video_0315\n"}
+,{"stream_name":"stdout","time":102.840223568,"data":"Getting annotations for video_0316\n"}
+,{"stream_name":"stdout","time":102.840227338,"data":"Getting annotations for video_0317\n"}
+,{"stream_name":"stdout","time":102.840234493,"data":"Getting annotations for video_0318\n"}
+,{"stream_name":"stdout","time":102.840238165,"data":"Getting annotations for video_0319\n"}
+,{"stream_name":"stdout","time":103.121667696,"data":"Getting annotations for video_0320\n"}
+,{"stream_name":"stdout","time":103.349905236,"data":"Getting annotations for video_0321\n"}
+,{"stream_name":"stdout","time":103.349929712,"data":"Getting annotations for video_0322\n"}
+,{"stream_name":"stdout","time":103.349933881,"data":"Getting annotations for video_0323\n"}
+,{"stream_name":"stdout","time":103.349937406,"data":"Getting annotations for video_0324\n"}
+,{"stream_name":"stdout","time":103.349941059,"data":"Getting annotations for video_0325\n"}
+,{"stream_name":"stdout","time":103.349944529,"data":"Getting annotations for video_0326\n"}
+,{"stream_name":"stdout","time":103.616016843,"data":"Getting annotations for video_0327\n"}
+,{"stream_name":"stdout","time":103.616046393,"data":"Getting annotations for video_0328\n"}
+,{"stream_name":"stdout","time":103.616050662,"data":"Getting annotations for video_0329\n"}
+,{"stream_name":"stdout","time":103.616054258,"data":"Getting annotations for video_0330\n"}
+,{"stream_name":"stdout","time":103.616057734,"data":"Getting annotations for video_0331\n"}
+,{"stream_name":"stdout","time":103.850234434,"data":"Getting annotations for video_0332\n"}
+,{"stream_name":"stdout","time":103.850261449,"data":"Getting annotations for video_0333\n"}
+,{"stream_name":"stdout","time":103.850266216,"data":"Getting annotations for video_0334\n"}
+,{"stream_name":"stdout","time":103.850270133,"data":"Getting annotations for video_0335\n"}
+,{"stream_name":"stdout","time":103.850274021,"data":"Getting annotations for video_0336\n"}
+,{"stream_name":"stdout","time":104.094822596,"data":"Getting annotations for video_0337\n"}
+,{"stream_name":"stdout","time":104.094849341,"data":"Getting annotations for video_0338\n"}
+,{"stream_name":"stdout","time":104.094854277,"data":"Getting annotations for video_0339\n"}
+,{"stream_name":"stdout","time":104.094871267,"data":"Getting annotations for video_0340\n"}
+,{"stream_name":"stdout","time":104.094875433,"data":"Getting annotations for video_0341\n"}
+,{"stream_name":"stdout","time":104.301771739,"data":"Getting annotations for video_0342\n"}
+,{"stream_name":"stdout","time":104.301795159,"data":"Getting annotations for video_0343\n"}
+,{"stream_name":"stdout","time":104.301799281,"data":"Getting annotations for video_0344\n"}
+,{"stream_name":"stdout","time":104.301802949,"data":"Getting annotations for video_0345\n"}
+,{"stream_name":"stdout","time":104.301806747,"data":"Getting annotations for video_0346\n"}
+,{"stream_name":"stdout","time":104.914783467,"data":"The database is written to /kaggle/working/JAAD/data_cache/jaad_database.pkl\n"}
+,{"stream_name":"stdout","time":104.914814958,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":104.914819876,"data":"Generating action sequence data\n"}
+,{"stream_name":"stdout","time":104.914823518,"data":"fstride: 1\n"}
+,{"stream_name":"stdout","time":104.914827068,"data":"sample_type: beh\n"}
+,{"stream_name":"stdout","time":104.914830448,"data":"subset: default\n"}
+,{"stream_name":"stdout","time":104.914833845,"data":"height_rng: [0, inf]\n"}
+,{"stream_name":"stdout","time":104.914837223,"data":"squarify_ratio: 0\n"}
+,{"stream_name":"stdout","time":104.914841135,"data":"data_split_type: default\n"}
+,{"stream_name":"stdout","time":104.914844488,"data":"seq_type: crossing\n"}
+,{"stream_name":"stdout","time":104.914848459,"data":"min_track_size: 76\n"}
+,{"stream_name":"stdout","time":104.914852475,"data":"random_params: {'ratios': None, 'val_data': True, 'regen_data': False}\n"}
+,{"stream_name":"stdout","time":104.914856119,"data":"kfold_params: {'num_folds': 5, 'fold': 1}\n"}
+,{"stream_name":"stdout","time":104.914859573,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":104.914863446,"data":"Generating database for jaad\n"}
+,{"stream_name":"stdout","time":105.441710404,"data":"jaad database loaded from /kaggle/working/JAAD/data_cache/jaad_database.pkl\n"}
+,{"stream_name":"stdout","time":105.441751803,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":105.441756013,"data":"Generating crossing data\n"}
+,{"stream_name":"stdout","time":105.441759648,"data":"Split: train\n"}
+,{"stream_name":"stdout","time":105.441763765,"data":"Number of pedestrians: 324 \n"}
+,{"stream_name":"stdout","time":105.441767636,"data":"Total number of samples: 194 \n"}
+,{"stream_name":"stdout","time":105.77688865,"data":"[beh/train] videos=106 peds=194 samples=2134 pos=1760 neg=374\n"}
+,{"stream_name":"stdout","time":105.776920953,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":105.776925459,"data":"Generating action sequence data\n"}
+,{"stream_name":"stdout","time":105.776929841,"data":"fstride: 1\n"}
+,{"stream_name":"stdout","time":105.776933403,"data":"sample_type: beh\n"}
+,{"stream_name":"stdout","time":105.77693734,"data":"subset: default\n"}
+,{"stream_name":"stdout","time":105.776940866,"data":"height_rng: [0, inf]\n"}
+,{"stream_name":"stdout","time":105.776944231,"data":"squarify_ratio: 0\n"}
+,{"stream_name":"stdout","time":105.776947543,"data":"data_split_type: default\n"}
+,{"stream_name":"stdout","time":105.776951479,"data":"seq_type: crossing\n"}
+,{"stream_name":"stdout","time":105.776954762,"data":"min_track_size: 76\n"}
+,{"stream_name":"stdout","time":105.77697155,"data":"random_params: {'ratios': None, 'val_data': True, 'regen_data': False}\n"}
+,{"stream_name":"stdout","time":105.776975475,"data":"kfold_params: {'num_folds': 5, 'fold': 1}\n"}
+,{"stream_name":"stdout","time":105.776980135,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":105.776983683,"data":"Generating database for jaad\n"}
+,{"stream_name":"stdout","time":106.192325106,"data":"jaad database loaded from /kaggle/working/JAAD/data_cache/jaad_database.pkl\n"}
+,{"stream_name":"stdout","time":106.192357878,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":106.192362393,"data":"Generating crossing data\n"}
+,{"stream_name":"stdout","time":106.192365794,"data":"Split: val\n"}
+,{"stream_name":"stdout","time":106.192369148,"data":"Number of pedestrians: 48 \n"}
+,{"stream_name":"stdout","time":106.192374001,"data":"Total number of samples: 22 \n"}
+,{"stream_name":"stdout","time":106.192377308,"data":"[beh/val] videos=14 peds=22 samples=242 pos=176 neg=66\n"}
+,{"stream_name":"stdout","time":106.19238231,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":106.19238577,"data":"Generating action sequence data\n"}
+,{"stream_name":"stdout","time":106.192389638,"data":"fstride: 1\n"}
+,{"stream_name":"stdout","time":106.192393541,"data":"sample_type: beh\n"}
+,{"stream_name":"stdout","time":106.192397293,"data":"subset: default\n"}
+,{"stream_name":"stdout","time":106.192401221,"data":"height_rng: [0, inf]\n"}
+,{"stream_name":"stdout","time":106.192405277,"data":"squarify_ratio: 0\n"}
+,{"stream_name":"stdout","time":106.192408569,"data":"data_split_type: default\n"}
+,{"stream_name":"stdout","time":106.192411785,"data":"seq_type: crossing\n"}
+,{"stream_name":"stdout","time":106.192414978,"data":"min_track_size: 76\n"}
+,{"stream_name":"stdout","time":106.192418153,"data":"random_params: {'ratios': None, 'val_data': True, 'regen_data': False}\n"}
+,{"stream_name":"stdout","time":106.19242159,"data":"kfold_params: {'num_folds': 5, 'fold': 1}\n"}
+,{"stream_name":"stdout","time":106.192424929,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":106.192428308,"data":"Generating database for jaad\n"}
+,{"stream_name":"stdout","time":106.707439137,"data":"jaad database loaded from /kaggle/working/JAAD/data_cache/jaad_database.pkl\n"}
+,{"stream_name":"stdout","time":106.707472119,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":106.707482171,"data":"Generating crossing data\n"}
+,{"stream_name":"stdout","time":106.707484822,"data":"Split: test\n"}
+,{"stream_name":"stdout","time":106.707487067,"data":"Number of pedestrians: 276 \n"}
+,{"stream_name":"stdout","time":106.707489354,"data":"Total number of samples: 171 \n"}
+,{"stream_name":"stdout","time":107.106212961,"data":"[beh/test] videos=81 peds=171 samples=1881 pos=1177 neg=704\n"}
+,{"stream_name":"stdout","time":107.10624647,"data":"---------------------------------------------------------\n"}
+,{"stream_name":"stdout","time":107.106252859,"data":"Generating database for jaad\n"}
+,{"stream_name":"stdout","time":107.34924679,"data":"jaad database loaded from /kaggle/working/JAAD/data_cache/jaad_database.pkl\n"}
+,{"stream_name":"stdout","time":107.349272646,"data":"train: windows=2134 peds=194 pos=1760\n"}
+,{"stream_name":"stdout","time":107.34927764,"data":"val: windows=242 peds=22 pos=176\n"}
+,{"stream_name":"stdout","time":107.349281771,"data":"test: windows=1881 peds=171 pos=1177\n"}
+,{"stream_name":"stdout","time":126.075330871,"data":"  crops 20/201 videos (video_0112: 86)\n"}
+,{"stream_name":"stdout","time":142.198285114,"data":"  crops 40/201 videos (video_0149: 129)\n"}
+,{"stream_name":"stdout","time":158.450553888,"data":"  crops 60/201 videos (video_0214: 86)\n"}
+,{"stream_name":"stdout","time":172.652408916,"data":"  crops 80/201 videos (video_0266: 215)\n"}
+,{"stream_name":"stdout","time":188.158005326,"data":"  crops 100/201 videos (video_0324: 172)\n"}
+,{"stream_name":"stdout","time":204.465361846,"data":"  crops 120/201 videos (video_0005: 215)\n"}
+,{"stream_name":"stdout","time":221.131352994,"data":"  crops 140/201 videos (video_0100: 43)\n"}
+,{"stream_name":"stdout","time":242.351256932,"data":"  crops 160/201 videos (video_0178: 129)\n"}
+,{"stream_name":"stdout","time":258.877869296,"data":"  crops 180/201 videos (video_0279: 86)\n"}
+,{"stream_name":"stdout","time":274.123638867,"data":"  crops 200/201 videos (video_0336: 86)\n"}
+,{"stream_name":"stdout","time":274.470109346,"data":"  crops 201/201 videos (video_0334: 86)\n"}
+,{"stream_name":"stdout","time":274.521927173,"data":"crop cache: /kaggle/working/crops_beh 2.51 GB\n"}
+,{"stream_name":"stdout","time":278.588168247,"data":"params: 24.16M | logit (16,) | peak GPU mem 4.7 GB at 16 clips/step\n"}
+,{"stream_name":"stdout","time":278.676896941,"data":"[start] dense_s42 on GPU 0\n"}
+,{"stream_name":"stdout","time":278.678261371,"data":"[start] dense_s7 on GPU 1\n"}
+,{"stream_name":"stdout","time":678.723987625,"data":"[done]  dense_s7 exit=0\n"}
+,{"stream_name":"stdout","time":683.693677401,"data":"[start] dense_s97 on GPU 1\n"}
+,{"stream_name":"stdout","time":708.694466859,"data":"[done]  dense_s42 exit=0\n"}
+,{"stream_name":"stdout","time":1073.728947235,"data":"[done]  dense_s97 exit=0\n"}
+,{"stream_name":"stdout","time":1102.611647268,"data":"mean ± std over seeds (test):\n"}
+,{"stream_name":"stdout","time":1102.611689581,"data":"        auc_pt        bench_acc_pt        bench_f1_pt        thr_f1_pt        bench_auc       \n"}
+,{"stream_name":"stdout","time":1102.611696298,"data":"          mean    std         mean    std        mean    std      mean    std      mean    std\n"}
+,{"stream_name":"stdout","time":1102.611725894,"data":"variant                                                                                       \n"}
+,{"stream_name":"stdout","time":1102.611731162,"data":"dense    0.656  0.025        0.632  0.018        0.76  0.007     0.655  0.112     0.532  0.048\n"}
+,{"stream_name":"stdout","time":1746.333697337,"data":"3.4M\t/kaggle/working/out\r\n"}
+,{"stream_name":"stdout","time":1746.333750061,"data":"2.4G\t/kaggle/working/crops_beh\r\n"}
+,{"stream_name":"stderr","time":1750.039412936,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1750.039438919,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1750.204595765,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1750.204629571,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1750.973038459,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":1751.106447495,"data":"[NbConvertApp] Writing 1907910 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":1753.545113287,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1754.357158546,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":1754.357205315,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":1754.357897809,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":1754.358128399,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":1754.358325678,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":1754.358609768,"data":"[NbConvertApp] Writing 713256 bytes to __results__.html\n"}
+]

@@ -1,0 +1,15 @@
+{
+ "samples": "data/samples/jaad_beh.pkl",
+ "cache": "data/pose_beh",
+ "out": "runs/pg_IVT_s97",
+ "image": true,
+ "vel": true,
+ "time_crop": true,
+ "stage1_image_gate": false,
+ "epochs": 30,
+ "bs": 32,
+ "lr": 0.005,
+ "wd": 0.001,
+ "workers": 2,
+ "seed": 97
+}

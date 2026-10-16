@@ -1,0 +1,8 @@
+variant,use_image,fusion,img_aug,score
+pose only (best),False,concat,0.0,0.8245818336280083
++image gate aug0.5,True,gate,0.5,0.8017509804056179
++image gate aug1.0,True,gate,1.0,0.8138536292040534
++image concat aug0.5,True,concat,0.5,0.7912715091264776
++image concat aug1.0,True,concat,1.0,0.8006237130004922
++image both aug0.5,True,both,0.5,0.7772310034478656
++image both aug1.0,True,both,1.0,0.7844984679186799

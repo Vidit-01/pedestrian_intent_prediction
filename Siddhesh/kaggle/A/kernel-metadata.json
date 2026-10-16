@@ -1,0 +1,13 @@
+{
+ "id": "siddheshnadkarni/jaad-dense-vit-a",
+ "title": "JAAD Dense ViT A",
+ "code_file": "jaad_dense_vit_A.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": ["christopheronyiuke/jaad-video"],
+ "competition_sources": [],
+ "kernel_sources": []
+}

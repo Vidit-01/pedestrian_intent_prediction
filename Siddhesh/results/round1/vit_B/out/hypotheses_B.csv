@@ -1,0 +1,7 @@
+hyp,variant,statistic,verdict
+H2,soft,"S>S_null in 100% of (seed,layer); mean S/logH=0.001",supported
+H2,sparse,"S>S_null in 33% of (seed,layer); mean S/logH=0.001",not supported
+H3,soft,"I(r;c|y) > null p95 in 90% of (seed,layer,context) cells",supported
+H3,sparse,"I(r;c|y) > null p95 in 12% of (seed,layer,context) cells",not supported
+H4,soft,Gamma CI>0 and swaps>control for 0% of contexts,not supported
+H4,sparse,Gamma CI>0 and swaps>control for 0% of contexts,not supported

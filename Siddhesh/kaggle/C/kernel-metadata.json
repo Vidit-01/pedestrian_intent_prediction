@@ -1,0 +1,13 @@
+{
+ "id": "siddheshnadkarni/jaad-pedgraph-c",
+ "title": "JAAD Pedestrian Graph C",
+ "code_file": "jaad_pedgraph_C.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": ["siddheshnadkarni/jaad-pedgraph-data"],
+ "competition_sources": [],
+ "kernel_sources": []
+}

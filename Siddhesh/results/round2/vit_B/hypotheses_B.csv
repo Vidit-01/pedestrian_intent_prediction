@@ -1,0 +1,11 @@
+hyp,variant,statistic,verdict
+H1,soft,"dAUC=+0.0026 [-0.0222,+0.0280]",not supported
+H1,sparse,"dAUC=-0.0394 [-0.0966,+0.0142]",not supported
+H1,film,"dAUC=-0.0389 [-0.0945,+0.0148]",not supported
+H2,soft,S>S_null in 100% of cells; mean S/logH=0.002,not supported (collapsed)
+H2,sparse,S>S_null in 100% of cells; mean S/logH=0.001,not supported (collapsed)
+H3,soft,"I(r;c|y) > null p95 in 90% of (seed,fold,layer,context) cells",supported
+H3,sparse,"I(r;c|y) > null p95 in 68% of (seed,fold,layer,context) cells",supported
+H4,soft,Gamma CI>0 and swaps>control for 0% of contexts,not supported
+H4,sparse,Gamma CI>0 and swaps>control for 12% of contexts,not supported
+H5,sparse,H(q): sparse 0.721 < soft 0.841 ~ dense 0.874,supported
